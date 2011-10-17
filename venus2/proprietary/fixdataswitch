@@ -1,0 +1,4 @@
+#!/system/bin/sh
+echo 'dhcp.tiwlan0.dns1=' >> /data/local.prop
+echo "Data switching should be restored"
+exit
